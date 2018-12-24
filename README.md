@@ -1,4 +1,4 @@
-# Fellowship-One-shot-Learning
+# One-shot-Learning
 
 Pravin Yogarajah
 
